@@ -11,9 +11,7 @@
 演示地址：[https://photo.gitapp.cn](https://photo.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_photo
 
 
 ## 主要功能
